@@ -21,7 +21,7 @@
   "tes": {
     "pass": "1",
     "role": "reseller",
-    "balance": 0,
+    "balance": 5000,
     "history": []
   }
 }
