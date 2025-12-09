@@ -21,7 +21,9 @@
   "tes": {
     "pass": "1",
     "role": "reseller",
-    "balance": 5000,
-    "history": []
+    "balance": 4500,
+    "history": [
+      "KEY-FBMM9"
+    ]
   }
 }
