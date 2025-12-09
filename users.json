@@ -3,5 +3,11 @@
     "pass": "admin",
     "role": "admin",
     "balance": 999999
+  },
+  "Fixa": {
+    "pass": "1",
+    "role": "reseller",
+    "balance": 0,
+    "history": []
   }
 }
