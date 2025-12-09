@@ -1,0 +1,7 @@
+{
+  "admin": {
+    "pass": "admin",
+    "role": "admin",
+    "balance": 999999
+  }
+}
