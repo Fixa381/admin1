@@ -18,7 +18,7 @@
   "x": {
     "pass": "x",
     "role": "reseller",
-    "balance": 0,
+    "balance": 1,
     "history": []
   }
 }
