@@ -1,10 +1,17 @@
 {
-  "keys": {},
+  "keys": {
+    "KEY-NLZYE": {
+      "exp": "2026-01-08",
+      "hwid": null,
+      "createdBy": "1",
+      "createdDate": "2025-12-09"
+    }
+  },
   "users": {
     "1": {
       "pass": "1",
       "role": "reseller",
-      "balance": 5200
+      "balance": 4700
     },
     "admin": {
       "pass": "admin",
