@@ -17,5 +17,11 @@
       "KEY-NA1GX",
       "KEY-6X0G9"
     ]
+  },
+  "tes": {
+    "pass": "1",
+    "role": "reseller",
+    "balance": 0,
+    "history": []
   }
 }
