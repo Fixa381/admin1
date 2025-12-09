@@ -13,5 +13,18 @@
     }
   ],
   "KEY-XB0UQ": null,
-  "KEY-EYJXH": null
+  "KEY-EYJXH": null,
+  "tes": [
+    {
+      "id": "8be73fe6fa3e4fb25d8f9dbe1f712587",
+      "info": {
+        "type": "desktop",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "platform": "Win32",
+        "language": "id-ID"
+      },
+      "registeredAt": "2025-12-09T10:43:15.428Z",
+      "lastActive": "2025-12-09T10:43:15.428Z"
+    }
+  ]
 }
