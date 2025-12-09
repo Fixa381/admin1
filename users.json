@@ -11,5 +11,11 @@
     "history": [
       "KEY-VMQL9"
     ]
+  },
+  "x": {
+    "pass": "x",
+    "role": "reseller",
+    "balance": 0,
+    "history": []
   }
 }
