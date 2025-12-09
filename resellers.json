@@ -1,5 +1,14 @@
 {
   "1": {
     "balance": 1
+  },
+  "RSL-1765274249855": {
+    "reseller_id": "RSL-1765274249855",
+    "name": "1",
+    "username": "1",
+    "password_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "balance": 1000,
+    "key_price": 50,
+    "created_at": "2025-12-09T09:57:29.855Z"
   }
 }
