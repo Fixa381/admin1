@@ -2,7 +2,10 @@
   "admin": {
     "pass": "admin",
     "role": "admin",
-    "balance": 999999
+    "balance": 999999,
+    "history": [
+      "X-I5URC"
+    ]
   },
   "Fixa": {
     "pass": "1",
