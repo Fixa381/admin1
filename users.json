@@ -1,12 +1,4 @@
 {
-  "1": {
-    "pass": "1",
-    "role": "reseller",
-    "balance": 4500,
-    "history": [
-      "KEY-AW937"
-    ]
-  },
   "admin": {
     "pass": "admin",
     "role": "admin",
