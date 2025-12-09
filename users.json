@@ -1,4 +1,10 @@
 {
+  "1": {
+    "pass": "1",
+    "role": "reseller",
+    "balance": 0,
+    "history": []
+  },
   "admin": {
     "pass": "admin",
     "role": "admin",
