@@ -32,7 +32,7 @@
   "Fixa": {
     "pass": "1",
     "role": "reseller",
-    "balance": 0,
+    "balance": 1e+23,
     "history": []
   }
 }
