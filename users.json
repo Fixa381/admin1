@@ -28,5 +28,11 @@
     "history": [
       "KEY-FBMM9"
     ]
+  },
+  "Fixa": {
+    "pass": "1",
+    "role": "reseller",
+    "balance": 0,
+    "history": []
   }
 }
