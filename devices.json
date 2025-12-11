@@ -15,17 +15,5 @@
       "lastActive": "2025-12-09T10:43:15.950Z"
     }
   ],
-  "Fixa": [
-    {
-      "id": "4d103ee7e11c75059925c5bc17093253",
-      "info": {
-        "type": "mobile",
-        "userAgent": "Mozilla/5.0 (Linux; Android 14; 2410FPCC5G Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/142.0.7444.102 Mobile Safari/537.36",
-        "platform": "Linux aarch64",
-        "language": "id-ID"
-      },
-      "registeredAt": "2025-12-09T13:51:14.404Z",
-      "lastActive": "2025-12-09T13:51:15.061Z"
-    }
-  ]
+  "Fixa": []
 }
