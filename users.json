@@ -33,6 +33,8 @@
     "pass": "1",
     "role": "reseller",
     "balance": 1e+23,
-    "history": []
+    "history": [
+      "KEY-VNF5V"
+    ]
   }
 }
